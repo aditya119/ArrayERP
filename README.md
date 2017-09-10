@@ -1,6 +1,7 @@
 # C-plus-plus-ERP
 A C++ program to implement ERP system for a class using array data structure.
-To start the software, run the object file
+This has been developed in Linux and may give some errors in Windows (like not finding the clear screen command used in Linux) and hence should be run in Linux.
+To start the software, run the object file.
 
 In the software, you would see things like (V)iew, (I)nsert, etc. It means to select that option you need to press the key mentioned in the bracketts from the keyboard (and keys are case specific).
 
