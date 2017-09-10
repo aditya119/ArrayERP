@@ -12,3 +12,4 @@ The file must be there in the same folder as the software for proper working. So
 In this software, you can add new record; view, update and remove existing records.
 
 To save the data, you must exit by pressing the 'E' key. Terminating the program abruptly would lead to loss of data.
+A total of 100 records can be entered.
