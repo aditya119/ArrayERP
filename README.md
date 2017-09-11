@@ -1,4 +1,4 @@
-# C-plus-plus-ERP
+# ArrayERP
 A C++ program to implement ERP system for a class using array data structure.
 This has been developed in Linux and may give some errors in Windows (like not finding the clear screen command used in Linux) and hence should be run in Linux.
 To start the software, run the object file.
